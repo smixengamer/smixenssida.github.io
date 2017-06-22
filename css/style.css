@@ -1,0 +1,43 @@
+body{
+	background-image: url("../bilder/slott.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+} 
+
+
+
+#hej {
+    color: #35ff2b;
+}
+
+#goddag {
+    color: #ccfdff;
+}
+
+#vissteduattalltbehöverid {
+	color: #fff600
+}
+
+#varför {
+	color: #00fff2
+}
+
+#gulp {
+	color: #ffe900
+}
+
+#därärdudinlillaidhatare {
+	color: #3e04e2
+}
+
+#hoppashanintehittarmig {
+	color: #ff0000
+} {
+	text-align: center
+}
+
+#h3jdå {
+	color: green
+}

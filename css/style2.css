@@ -1,0 +1,8 @@
+#måsteallasakerhanamn{color: }
+body{
+	background-image: url("../bilder/slott.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}
